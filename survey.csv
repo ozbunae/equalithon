@@ -1,27 +1,27 @@
-Timestamp,How old are you?,Which of LGBTQIA+ category are you in?,Which industry are you currently working in?,In which state are you located?,What is your salary range?,What types of job are you working?,"Have you ever experience discrimination due to your race, sexual orientation or gender identity?","If yes, where did you experience discrimination due to your race, sexisual orientation or gender identity?","Which have you done in order to avoid experiencing discrimination because of your race, sexual orientation or gender identity?","Would you be interested in a follow-up interview to learn more about your experiences?  If yes, provide contact information in the next question.",Please write your contact information.
-6/21/2021 19:38,20,Gay,Technology,Washington,90,Full-time,No,Not workplace,Hid a personal relationship,Yes,robin.paul.dean@gmail.com
-6/21/2021 19:41,20,"Gay,Queer",Technology,California,50,Intern,Yes,In workplaces,Hid a personal relationship,Yes,"zipprobertt@gmail.com, 650-208-7426"
-6/21/2021 19:52,30,"Gay,People of Color",Technology,California,100,Full-time,Yes,In workplaces,Hid a personal relationship,Yes,John Huan Vu / j.vu@live.com
-6/21/2021 20:25,30,"Gay,Queer,People of Color",Technology,California,70,Student,Yes,In workplaces,Hid a personal relationship,Yes,Tomomitsukioka@gmail.com
-6/21/2021 21:27,20,"Bisexual,Queer,People of Color",Fitness,New York,60,Contract,Yes,Not workplace,Did Not,No,
-6/21/2021 21:33,30,Bisexual,Energy,Texas,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,
-6/21/2021 21:36,30,"Bisexual,Queer",Technology,Washington,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,
-6/21/2021 21:51,30,"Bisexual,Questioning",Technology,Colorado,80,Full-time,Yes,In workplaces,Did Not,No,
-6/21/2021 22:39,30,Lesbian,Education,California,0,Full-time,Yes,In workplaces,Hid a personal relationship,Yes,Laurie Honda lauriephonda@gmail.com
-6/21/2021 23:15,20,"Gay,People of Color",Technology,California,50,Unemployed,Yes,Not workplace,Hid a personal relationship,Yes,nmabrea@gmail.com
-6/22/2021 1:22,30,"People of Color,Sexually attracted to women",Media,California,0,Full-time,Yes,Not workplace,Did Not,No,
-6/22/2021 6:06,50,Gay,Data Analyst ,Florida,50,Unemployed ,Yes,In workplaces,Did Not,Yes,61422365139
-6/22/2021 7:24,30,Gay,Textiles,New York,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,kjmont@gmail.com
-6/22/2021 7:28,20,Gay,Media,New York,100,Full-time,No,Not workplace,Did Not,Yes,Gigantjoe@gmail.com
-6/22/2021 9:25,30,"Gay,Transgender,Queer",Technology,New York,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,
-6/22/2021 11:45,30,"Queer,People of Color",Technology,Pennsylvania,50,student,Yes,In workplaces,Hid a personal relationship,No,cyres.gibson@gmail.com
-6/22/2021 11:45,20,"Bisexual,Transgender,Queer",Technology,Virginia,90,Full-time,Yes,In workplaces,Hid a personal relationship,No,
-6/22/2021 11:54,30,Queer,tech-adjacent non-profit,California,90,Full-time,Yes,In workplaces,Did Not,Yes,kelly.lough@gmail.com
-6/22/2021 12:18,40,Bisexual,Technology,New York,100,Contract,Yes,Not workplace,Hid a personal relationship,No,jgbreezer@hotmail.com
-6/22/2021 12:44,40,Queer,nonprofit,California,70,Full-time,Yes,In workplaces,Did Not,No,
-6/22/2021 17:53,20,"Queer,People of Color,Non-binary",Healthcare,California,50,Contract,Yes,In workplaces,Hid a personal relationship,Yes,iamrenchin@gmail.com (email); 510 604 0755 (personal cell)
-6/22/2021 18:25,40,Bisexual,Student,Nevada,50,"Student, unemployed ",Yes,Not workplace,Hid a personal relationship,No,
-6/22/2021 18:38,40,"Bisexual,Queer",Manufacturing ,New York,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,
-6/22/2021 20:52,20,Non-binary,Music,Virginia,0,Part-time,Yes,Not workplace,Hid a personal relationship,Yes,darrian.thomas.14@gmail.com
-6/23/2021 7:12,20,"Bisexual,People of Color",Technology,New Jersey,60,Contract,Yes,In workplaces,Hid a personal relationship,No,
-6/23/2021 11:27,40,"Gay,People of Color",Media,New York,0,Full-time,No,Not workplace,Did Not,No,
+Timestamp,How old are you?,Which of LGBTQIA+ category are you in?,Which industry are you currently working in?,In which state are you located?,What is your salary range?,What types of job are you working?,"Have you ever experience discrimination due to your race, sexual orientation or gender identity?","If yes, where did you experience discrimination due to your race, sexisual orientation or gender identity?","Which have you done in order to avoid experiencing discrimination because of your race, sexual orientation or gender identity?","Would you be interested in a follow-up interview to learn more about your experiences?  If yes, provide contact information in the next question.",Please write your contact information.,moved
+6/21/2021 19:38,20,Gay,Technology,Washington,90,Full-time,No,Not workplace,Hid a personal relationship,Yes,robin.paul.dean@gmail.com,no
+6/21/2021 19:41,20,"Gay,Queer",Technology,California,50,Intern,Yes,In workplaces,Hid a personal relationship,Yes,"zipprobertt@gmail.com, 650-208-7426",yes
+6/21/2021 19:52,30,"Gay,People of Color",Technology,California,100,Full-time,Yes,In workplaces,Hid a personal relationship,Yes,John Huan Vu / j.vu@live.com,yes
+6/21/2021 20:25,30,"Gay,Queer,People of Color",Technology,California,70,Student,Yes,In workplaces,Hid a personal relationship,Yes,Tomomitsukioka@gmail.com,no
+6/21/2021 21:27,20,"Bisexual,Queer,People of Color",Fitness,New York,60,Contract,Yes,Not workplace,Did Not,No,,yes
+6/21/2021 21:33,30,Bisexual,Energy,Texas,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,,yes
+6/21/2021 21:36,30,"Bisexual,Queer",Technology,Washington,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,,yes
+6/21/2021 21:51,30,"Bisexual,Questioning",Technology,Colorado,80,Full-time,Yes,In workplaces,Did Not,No,,yes
+6/21/2021 22:39,30,Lesbian,Education,California,0,Full-time,Yes,In workplaces,Hid a personal relationship,Yes,Laurie Honda lauriephonda@gmail.com,yes
+6/21/2021 23:15,20,"Gay,People of Color",Technology,California,50,Unemployed,Yes,Not workplace,Hid a personal relationship,Yes,nmabrea@gmail.com,no
+6/22/2021 1:22,30,"People of Color,Sexually attracted to women",Media,California,0,Full-time,Yes,Not workplace,Did Not,No,,no
+6/22/2021 6:06,50,Gay,Data Analyst ,Florida,50,Unemployed ,Yes,In workplaces,Did Not,Yes,61422365139,yes
+6/22/2021 7:24,30,Gay,Textiles,New York,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,kjmont@gmail.com,yes
+6/22/2021 7:28,20,Gay,Media,New York,100,Full-time,No,Not workplace,Did Not,Yes,Gigantjoe@gmail.com,yes
+6/22/2021 9:25,30,"Gay,Transgender,Queer",Technology,New York,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,,yes
+6/22/2021 11:45,30,"Queer,People of Color",Technology,Pennsylvania,50,student,Yes,In workplaces,Hid a personal relationship,No,cyres.gibson@gmail.com,yes
+6/22/2021 11:45,20,"Bisexual,Transgender,Queer",Technology,Virginia,90,Full-time,Yes,In workplaces,Hid a personal relationship,No,,no
+6/22/2021 11:54,30,Queer,tech-adjacent non-profit,California,90,Full-time,Yes,In workplaces,Did Not,Yes,kelly.lough@gmail.com,yes
+6/22/2021 12:18,40,Bisexual,Technology,New York,100,Contract,Yes,Not workplace,Hid a personal relationship,No,jgbreezer@hotmail.com,yes
+6/22/2021 12:44,40,Queer,nonprofit,California,70,Full-time,Yes,In workplaces,Did Not,No,,no
+6/22/2021 17:53,20,"Queer,People of Color,Non-binary",Healthcare,California,50,Contract,Yes,In workplaces,Hid a personal relationship,Yes,iamrenchin@gmail.com (email); 510 604 0755 (personal cell),no
+6/22/2021 18:25,40,Bisexual,Student,Nevada,50,"Student, unemployed ",Yes,Not workplace,Hid a personal relationship,No,,yes
+6/22/2021 18:38,40,"Bisexual,Queer",Manufacturing ,New York,100,Full-time,Yes,In workplaces,Hid a personal relationship,No,,yes
+6/22/2021 20:52,20,Non-binary,Music,Virginia,0,Part-time,Yes,Not workplace,Hid a personal relationship,Yes,darrian.thomas.14@gmail.com,yes
+6/23/2021 7:12,20,"Bisexual,People of Color",Technology,New Jersey,60,Contract,Yes,In workplaces,Hid a personal relationship,No,,no
+6/23/2021 11:27,40,"Gay,People of Color",Media,New York,0,Full-time,No,Not workplace,Did Not,No,,yes
